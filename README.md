@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diogo
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning dotnet
+- 🌱 I’m currently learning java
 - 📫 How to reach me https://www.linkedin.com/in/diogow3/
 
 <!---
